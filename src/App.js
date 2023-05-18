@@ -1,8 +1,10 @@
 import "./App.scss";
+import Navbar from "./components/Navbar/Navbar";
 
 const App = () => {
   return (
     <div className="App">
+      <Navbar />
       <h1>Welcome to my world</h1>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi quod
