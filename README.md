@@ -2,4 +2,4 @@
 
 You can check my page via [this link](https://yusufgozukara.github.io/sass_tour_project_recap/)
 
-![](intro.gif)
+![](sass tour.jpg)
